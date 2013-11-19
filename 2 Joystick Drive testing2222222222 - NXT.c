@@ -53,7 +53,7 @@ task main()
   		wait1Msec(200);
   		motor[gripperMotor] = 0;
   	}
-
+//beep beep beep
 
   }
 }
